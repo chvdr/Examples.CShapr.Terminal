@@ -1,0 +1,4 @@
+C:\Users\Chavdar\terminal\Modul02\Modul02\bin\Debug\Modul02.exe
+C:\Users\Chavdar\terminal\Modul02\Modul02\bin\Debug\Modul02.pdb
+C:\Users\Chavdar\terminal\Modul02\Modul02\obj\x86\Debug\Modul02.exe
+C:\Users\Chavdar\terminal\Modul02\Modul02\obj\x86\Debug\Modul02.pdb

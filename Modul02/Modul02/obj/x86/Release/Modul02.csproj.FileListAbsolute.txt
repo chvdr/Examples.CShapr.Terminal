@@ -1,0 +1,2 @@
+C:\Users\Chavdar\terminal\Modul02\Modul02\bin\Release\Modul02.exe
+C:\Users\Chavdar\terminal\Modul02\Modul02\obj\x86\Release\Modul02.exe
