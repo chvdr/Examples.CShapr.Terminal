@@ -1,0 +1,4 @@
+C:\Users\Chavdar\terminal\HelloAula\HelloAula\bin\Debug\HelloAula.exe
+C:\Users\Chavdar\terminal\HelloAula\HelloAula\bin\Debug\HelloAula.pdb
+C:\Users\Chavdar\terminal\HelloAula\HelloAula\obj\x86\Debug\HelloAula.exe
+C:\Users\Chavdar\terminal\HelloAula\HelloAula\obj\x86\Debug\HelloAula.pdb

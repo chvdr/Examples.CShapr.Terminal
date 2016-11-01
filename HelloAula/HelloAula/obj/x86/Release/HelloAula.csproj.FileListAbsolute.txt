@@ -1,0 +1,2 @@
+C:\Users\Chavdar\terminal\HelloAula\HelloAula\bin\Release\HelloAula.exe
+C:\Users\Chavdar\terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.exe
