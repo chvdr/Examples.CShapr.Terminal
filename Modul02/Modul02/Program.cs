@@ -11,7 +11,7 @@ namespace Modul02
 			int sum = 0;                // variable w. the sum of the above vars
 
 			// Add numbers
-			a = 6;
+			a = 49;
 			b = 12;
 
 			sum = a + b;
@@ -23,11 +23,19 @@ namespace Modul02
 			Console.WriteLine(b);
 			Console.Write("sum=");
 			Console.WriteLine(sum);
+			// Basic (arythmetic) operators and operations in type int:
 			Console.Write(a);
-			Console.Write(" + ");
+			Console.Write(" / ");
 			Console.Write(b);
 			Console.Write(" = ");
-			Console.WriteLine(sum);
+			Console.WriteLine((a/b).ToString());
+			Console.Write(a);
+			Console.Write(" % ");
+			Console.Write(b);
+			Console.Write(" = ");
+			Console.WriteLine((a % b).ToString());
+
+
 		}
 	}
 }
