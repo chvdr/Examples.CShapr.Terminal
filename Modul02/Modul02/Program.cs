@@ -23,6 +23,11 @@ namespace Modul02
 			Console.WriteLine(b);
 			Console.Write("sum=");
 			Console.WriteLine(sum);
+			Console.Write(a);
+			Console.Write(" + ");
+			Console.Write(b);
+			Console.Write(" = ");
+			Console.WriteLine(sum);
 		}
 	}
 }
