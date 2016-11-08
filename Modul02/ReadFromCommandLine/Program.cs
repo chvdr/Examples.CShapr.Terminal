@@ -6,10 +6,19 @@ namespace ReadFromCommandLine
 	{
 		public static void Main(string[] args)
 		{
+			// Welcome message:
+			Console.WriteLine("Hello! This program aggregates 5 with a number, inserted from Input");
+			Console.WriteLine("Now, enter value of variable b: ");
+			// var declarations
 			int a = 5, b = 0;
+
+			// insert value of b:
+			Console.Write("b = ");
+			b = Convert.ToInt32(Console.ReadLine());
+
 			Console.WriteLine("Example of how to use cl input: ");
 			Console.Write(a + " + " + b + " = " );
-			Console.WriteLine(a + b);
+			Console.WriteLine((a + b).ToString());
 			// 
 			// 
 		}
