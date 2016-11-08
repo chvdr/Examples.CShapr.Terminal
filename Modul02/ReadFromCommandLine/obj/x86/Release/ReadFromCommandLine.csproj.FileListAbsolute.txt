@@ -1,0 +1,2 @@
+C:\Users\Chavdar\terminal\Modul02\ReadFromCommandLine\bin\Release\ReadFromCommandLine.exe
+C:\Users\Chavdar\terminal\Modul02\ReadFromCommandLine\obj\x86\Release\ReadFromCommandLine.exe
