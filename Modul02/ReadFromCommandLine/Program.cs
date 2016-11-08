@@ -32,6 +32,7 @@ namespace ReadFromCommandLine
 			test += ", 6";
 
 			Console.WriteLine(test);
+			Console.WriteLine(test.Replace(", ", ";"));
 		}
 	}
 }
