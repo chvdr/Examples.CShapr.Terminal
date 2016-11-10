@@ -33,6 +33,9 @@ namespace ReadFromCommandLine
 
 			Console.WriteLine(test);
 			Console.WriteLine(test.Replace(", ", ";"));
+
+			Console.WriteLine( "The first digit of the numbered sequence: " + test.Split(',')[0] );
+			Console.WriteLine("The 3rd digit of the numbered sequence: " + test.Split(',')[2] + "\n");
 		}
 	}
 }
