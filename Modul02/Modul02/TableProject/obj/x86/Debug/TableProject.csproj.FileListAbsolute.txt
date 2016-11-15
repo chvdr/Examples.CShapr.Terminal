@@ -1,0 +1,4 @@
+C:\Users\Chavdar\terminal\Modul02\Modul02\TableProject\bin\Debug\TableProject.exe
+C:\Users\Chavdar\terminal\Modul02\Modul02\TableProject\bin\Debug\TableProject.pdb
+C:\Users\Chavdar\terminal\Modul02\Modul02\TableProject\obj\x86\Debug\TableProject.exe
+C:\Users\Chavdar\terminal\Modul02\Modul02\TableProject\obj\x86\Debug\TableProject.pdb
