@@ -1,0 +1,4 @@
+C:\Users\Chavdar\terminal\Modul02\Modul02\TableProjectRepetition\bin\Debug\TableProjectRepetition.exe
+C:\Users\Chavdar\terminal\Modul02\Modul02\TableProjectRepetition\bin\Debug\TableProjectRepetition.pdb
+C:\Users\Chavdar\terminal\Modul02\Modul02\TableProjectRepetition\obj\x86\Debug\TableProjectRepetition.exe
+C:\Users\Chavdar\terminal\Modul02\Modul02\TableProjectRepetition\obj\x86\Debug\TableProjectRepetition.pdb
